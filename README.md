@@ -113,5 +113,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 For issues or suggestions, feel free to open a GitHub issue in this repository!
 
----
-Answer from Perplexity: pplx.ai/share
