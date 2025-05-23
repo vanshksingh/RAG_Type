@@ -16,17 +16,26 @@
 2. **Explainable Retrieval**  
    Provides insights into why specific chunks or documents were retrieved.
 
-3. **Semantic Chunking**  
-   Breaks down large documents into semantically meaningful chunks for efficient processing.
+3. **Feedback Loop Retrieval**  
+   Incorporates user feedback to iteratively refine retrieval and generation processes.
 
-4. **Hierarchical Indexing**  
-   Implements hierarchical FAISS indices for scalable and efficient document retrieval.
+4. **Fusion Retrieval**  
+   Combines multiple retrieval strategies or sources for improved relevance and coverage.
 
-5. **Feedback Loops**  
-   Incorporates user feedback to refine retrieval and generation processes.
+5. **Hierarchical RAG**  
+   Uses a multi-level retrieval approach (e.g., sections, paragraphs) to match query depth effectively.
 
-6. **Fusion Retrieval**  
-   Combines multiple retrieval strategies for improved results.
+6. **Query Transform Retrieval**  
+   Reformulates user queries using paraphrasing or expansion for better document matching.
+
+7. **Semantic RAG**  
+   Retrieves documents based on semantic similarity using embeddings rather than keyword matches.
+
+8. **Self RAG**  
+   Enables the model to self-assess and refine its own retrieval outputs for enhanced accuracy.
+
+9. **Simple RAG**  
+   A basic retrieval-augmented generation method using standard similarity-based retrieval.
 
 ---
 
